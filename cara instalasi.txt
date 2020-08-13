@@ -1,0 +1,25 @@
+1. hidupkan xampp atau wamp
+2. cari folder config pada folder "sisiput" dan "Sisiput-STIE"
+3. buka file +konfigurasi.php
+4. ubah password dan user sesuai dengan username password di phpmyadmin kamu
+5. buat database dbsisiput
+6. import database di php my admin
+7. ketik localhost/sisiput/ pada browser dan login sebagai web master
+8. username webmaster "maderupanajaya" password "mademadot"
+
+
+----------------------------------------------------------------------------------
+
+--------------------TERIMAKSIH----------------------------------------------------
+
+TERUS DUKUNG CHANEL DELEARN MELALUI SUBSCRIBE DAN BAGIKAN VIDEO INI SERTA LIKENYA 
+AGAR CHANEL DELEARN TERUS MEMBERIKAN SOURCE CODE YANG LAIN LAGI UNTUK MEMUDAHKAN 
+MENCARI REFRENSI BELAJAR :)
+
+
+VERSI INI MASIH BETA DITUNGGU VERSI SELANJUTNYA ADAPUN VITURNYA 
+- SUDAH MVC ATAU MENGGUNAKAN FRAMEWORK
+- CETAK BARCODE LEBIH DINAMIS
+- TAMPILAN YANG LEBIH USER FRIENDLY
+- VOTING USULAN KOLEKSI DENGAN GRAFIK
+- STATISTIK PENGUNJUNG DLL.
