@@ -91,7 +91,7 @@ $ass = mysqli_fetch_assoc($lihat);
 								<img src="../../gambar/LGP.png" class="img-circle" alt="Cinque Terre" width="" height="25"></th> 
 							</th>
 							<th style="font-size: 50%">
-								<h2 align="center">Nota Transaksi Pinjaman Koleksi<br><small align="center">STIE Satya Dharma Singaraja</small></h2>
+								<h2 align="center">Nota Transaksi Pinjaman Koleksi<br><small align="center">Pondok Baca Ayudah</small></h2>
 							</th>                        
 						</table>
 
@@ -195,10 +195,10 @@ $ass = mysqli_fetch_assoc($lihat);
 										</th>
 										<th style=" width: 30%">
 											<div class="responsive pull-right" align="center" style="margin-right: 10px; font-weight: normal;">
-												<?php echo "Singaraja, ". date("d/m/Y")."<small><br>Kepala Perpustakaan</small><br>"?>
+												<?php echo "Singaraja, ". date("d/m/Y")."<small><br>Kepala Pondok Baca</small><br>"?>
 												<img src="../../ttd.png" width="30" height="20" ><br>
 
-												<small><u>Ni Komang Hermawati</u></small>
+												<small><u>Wendri Bahar</u></small>
 											</div>
 										</th>
 									</tr>

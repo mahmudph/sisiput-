@@ -73,7 +73,7 @@ if (isset($_POST["login"]))
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Log In | SiSiput Satya Dharma Singaraja</title>
+    <title>Log In | Sistem Informasi Pondok Baca Ayudah</title>
     <!-- Favicon-->
     <link rel="icon" href="../../favicon.ico" type="image/x-icon">
 
@@ -103,8 +103,8 @@ if (isset($_POST["login"]))
             <?php endif ?>
 
             <div class="logo">
-                <a href="javascript:void(0);">Admin<b> Login Form</b></a>
-                <small>Perpustakaan STIE Satya Dharma Singaraja</small>
+                <a href="javascript:void(0);">Login Dibutuhkan</b></a>
+                <small>Perpustakaan Pondok Baca Ayudah</small>
             </div>
             <div class="card" style="border-radius: 10px">
                 <div class="body">
@@ -128,11 +128,11 @@ if (isset($_POST["login"]))
                         </div>
                         <div class="row">
                             <div class="col-xs-8 p-t-5">
-                                <input type="checkbox" name="rememberme" id="rememberme" class="filled-in chk-col-pink">
-                                <label for="rememberme">Remember Me</label>
+                                <!-- <input type="checkbox" name="rememberme" id="rememberme" class="filled-in chk-col-pink">
+                                <label for="rememberme">Remember Me</label> -->
                             </div>
                             <div class="col-xs-4">
-                                <button class="btn btn-block bg-cyan waves-effect" type="submit" name="login" style="border-radius: 5px">SIGN IN</button>
+                                <button class="btn btn-block bg-cyan waves-effect" type="submit" name="login" style="border-radius: 5px">Login</button>
                             </div>
                         </div>
                         <!-- <div class="row m-t-15 m-b--20">

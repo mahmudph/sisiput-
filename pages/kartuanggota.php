@@ -118,7 +118,7 @@ $("#valbar").html("").show().barcode( barr, "code128", settings);
 							<img src="../gambar/logoper.png" class="img-circle" alt="logo" width="" height="30" style=" z-index: 1; margin: 0px 0px 0px 25px"></th> 
 						</th>
 						<th style="font-size: 50%">
-							<h2>Kartu Anggota Perpustakaan<br><small style="margin-left: 40px">STIE Satya Dharma Singaraja</small></h2>
+							<h2>Kartu Anggota Pondok Baca<br><small style="margin-left: 40px">PONDOK BACA AYUDA</small></h2>
 						</th>                        
 					</table>
 				

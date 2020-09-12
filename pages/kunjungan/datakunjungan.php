@@ -29,7 +29,7 @@
             <div class="header">
                 <table class="table table-responsive" >
                    <th >
-                    <h2 style="font-weight: bold;"> Data Kunjungan Perpustakaan</h2>
+                    <h2 style="font-weight: bold;"> Data Kunjungan Pondok Baca Ayudah</h2>
                 </th>
                 <th>
                     <div class="btn-group pull-right">

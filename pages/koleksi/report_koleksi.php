@@ -116,7 +116,7 @@ $html ='<html>
 			<img src="../../gambar/logoper.png" width="80" height="80" align="right" style="margin-top:25px">
 		</th>
 			<th align="center">
-		 <h2 align="center" style=" font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Laporan Data Koleksi Perpustakaan STIE Satya Dharma Singaraja Berdasarkan Perperiode '.date("d-m-Y", strtotime($tgl1)).' s/d '.date("d-m-Y", strtotime($tgl2)).'</h2>
+		 <h2 align="center" style=" font-family: Arial, Helvetica, sans-serif; font-weight:bold;">Laporan Data Koleksi Pondok Baca Ayudah Berdasarkan Perperiode '.date("d-m-Y", strtotime($tgl1)).' s/d '.date("d-m-Y", strtotime($tgl2)).'</h2>
 		 	</th>
 	 	</tr>
 	 </table>
@@ -231,11 +231,11 @@ foreach ($q as $row){
         </main>
         <footer style="text-align:center; margin-right:-25cm"> 
 		  <div >
-			<p >Singaraja, '.date("d-m-Y").'<small><br>Kepala Perpustakaan</small></p><br>
+			<p >Singaraja, '.date("d-m-Y").'<small><br>Kepala Pondok Baca</small></p><br>
 			<br>
 			<br>
 
-		<small><u>Ni Komang Hermawati</u></small>
+		<small><u>Wendri Bahar</u></small>
 		</div>
         </footer>
     </body>

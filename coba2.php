@@ -238,7 +238,7 @@ function myFunction() {
                 <img src='gambar/LGP.png' class='img-circle' alt='Logo STIE' width='40' height='35'></th> 
             </th>
             <th>
-                <h2 align='center'>Kartu Anggota Perpustakaan<br><small align='center'>STIE Satya Dharma Singaraja</small></h2>
+                <h2 align='center'>Kartu Anggota Pondok Baca<br><small align='center'>Pondok Baca Ayudah</small></h2>
             </th>  
         </table>
         <hr>

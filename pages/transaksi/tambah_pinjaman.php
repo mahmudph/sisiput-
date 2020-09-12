@@ -241,7 +241,6 @@ unset($_SESSION['nama']);
                                     <?php else: ?>
                                      autofocus="true"
                                  <?php endif ?>
-
                                  >
                                  <label class="form-label">Nomor Anggota</label>
                              </div>

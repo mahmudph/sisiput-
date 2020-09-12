@@ -217,7 +217,7 @@ function fungsialamat() {
                                 <img src="gambar/LGP.png" class="img-circle" alt="Logo STIE" width="50" height="45"></th> 
                             </th>
                             <th>
-                              <h2 align="center">Kartu Anggota Perpustakaan<br><small align="center">STIE Satya Dharma Singaraja</small></h2>
+                              <h2 align="center">Kartu Anggota Pondok Baca <br><small align="center">Pondok Baca Ayudah</small></h2>
                           </th>                        
                       </table>
                       <ul class="header-dropdown m-r--5"></ul>
@@ -252,10 +252,10 @@ function fungsialamat() {
                         <th></th>
                         <td>
                             <div class="ttd responsive pull-right">
-                                <?php echo "Singaraja, ". date("d-m-Y")."<br><small>Kepala Perpustakaan</small><br>"?>
+                                <?php echo "Singaraja, ". date("d-m-Y")."<br><small>Kepala Pondok Baca</small><br>"?>
                                 <img src="" width="40" height="40" ><br>
 
-                                <small><u>Ni Komang Hermawati</u></small>
+                                <small><u>Wendri Bahar</u></small>
                             </div>
                         </td>
                     </tr>
@@ -273,7 +273,7 @@ function fungsialamat() {
                 <br>
                 <div class="isicatatan">
                     <ol>
-                        <li>Kartu Anggota ini harus dibawa setiap kunjungan, pinjaman, pengembalian keperpustakaan.</li>
+                        <li>Kartu Anggota ini harus dibawa setiap kunjungan, pinjaman, pengembalian kepondok Baca Ayudah.</li>
                         <li>Tanpa kartu anggota, kunjungan, pinjaman, pengembalian tidak dilayani.</li>
                         <li>Pengembalian lewat dari batas waktunya akan dikenakan denda.</li>
                         <li>Waktu pinjaman lamanya 7 hari dan dapat diperpanjang 7 hari lagi bila tidak ada yang memesannya.</li>

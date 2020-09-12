@@ -22,7 +22,7 @@
         <!-- Menu -->
         <div class="menu">
             <ul class="list">
-                <li class="header">MAIN NAVIGATION</li>
+                <li class="header" style="background:yellow">MAIN NAVIGATION</li>
                 <li class="active" hidden="hidden"></li>
                 <li <?php if (@$_GET['pages']==''): ?>
                     class="active"
@@ -105,10 +105,10 @@
 <!-- Footer -->
 <div class="legal">
     <div class="copyright">
-        &copy; 2018 <a href="javascript:void(0);">SiSiPut | STIE Satya Dharma</a>.
+        &copy; 2020 <a href="javascript:void(0);">Sistem Informasi Pondok Baca Ayudah</a>.
     </div>
     <div class="version">
-        <b>Versi: </b> 1.0
+        <b>Versi: </b> 1
     </div>
 </div>
 <!-- #Footer -->

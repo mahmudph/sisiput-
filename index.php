@@ -20,7 +20,7 @@ require 'pages/functions/select.php';
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-  <title>SiSiPut | STIE Satya Dharma Singaraja</title>
+  <title>Sistem Informasi Pondok Baca Ayudah</title>
   <!-- Favicon-->
   <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
 
@@ -102,7 +102,7 @@ require 'pages/functions/select.php';
       <div class="navbar-header">
         <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
         <a href="javascript:void(0);" class="bars"></a>
-        <a class="navbar-brand" href="/sisiput/">SISTEM INFORMASI PERPUSTAKAAN</a>
+        <a class="navbar-brand" href="/sisiput/">Sistem Informasi Pondok Baca Ayudah</a>
       </div>
       <div class="collapse navbar-collapse" id="navbar-collapse">
         <ul class="nav navbar-nav navbar-right" >

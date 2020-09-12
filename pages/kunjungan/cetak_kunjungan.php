@@ -111,7 +111,7 @@ $html ='<html>
 			<img src="../../gambar/LGP.png" width="55" height="50" align="right" style="margin-top:20px">
 		</th>
 			<th align="center">
-		 <h3 align="center">Laporan Data Transaksi Perpustakan STIE Satya Dharma Singaraja Berdasarkan Perperiode '.date("d-m-Y", strtotime($tgl1)).' s/d '.date("d-m-Y", strtotime($tgl2)).'</h3>
+		 <h3 align="center">Laporan Data Transaksi Pondok Baca Pondok Baca Ayudah Berdasarkan Perperiode '.date("d-m-Y", strtotime($tgl1)).' s/d '.date("d-m-Y", strtotime($tgl2)).'</h3>
 		 	</th>
 	 	</tr>
 	 </table>
@@ -119,11 +119,11 @@ $html ='<html>
 
         <footer style="text-align:center; margin-right:-13cm"> 
 		  <div >
-			<p >Singaraja, '.date("d-m-Y").'<small><br>Kepala Perpustakaan</small></p><br>
+			<p >Singaraja, '.date("d-m-Y").'<small><br>Kepala Pondok Baca</small></p><br>
 			<br>
 			<br>
 
-		<small><u>Ni Komang Hermawati</u></small>
+		<small><u>Webdri Bahar</u></small>
 		</div>
         </footer>
 
